@@ -14,7 +14,7 @@ A collection of items built using Python
 
 ### Special Assignments List (under development)
 
-Description: 
+Description: (for CFG)
 
 Prologue - 
 
@@ -36,4 +36,4 @@ Week 8 -
 
 Epilogue - 
 
-Extension - 
+Extension - (using VPython)
